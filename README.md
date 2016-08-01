@@ -1,6 +1,32 @@
 # playground
 
+
+
+
+## Description
+
+Chat application using Firebase as backend.
+
+## Screenshots
+
 <img src="/Screenshots/SignInPage.jpg" width="350">
+
+<img src="/Screenshots/FriendList.jpg" width="350">
+
+<img src="/Screenshots/ChatRoom.jpg" width="350">
+
+## Requirements
+
+[Xcode 8 beta 1](https://developer.apple.com/go/?id=xcode-8-beta)
+
+The application will not compile in other beta versions.
+
+## Dependencies
+
+- [Firebase](https://firebase.google.com/)
+- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+
+## Sample Database Structure
 
 ```json
 {
